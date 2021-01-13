@@ -65,7 +65,7 @@ class m210113_112300_create_table_trip extends Migration
     public function up()
     {
 
-    }
+    
 
     public function down()
     {

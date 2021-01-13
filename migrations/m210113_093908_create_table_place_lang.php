@@ -40,7 +40,7 @@ class m210113_093908_create_table_place_lang extends Migration
     public function up()
     {
 
-    }
+    
 
     public function down()
     {

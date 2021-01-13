@@ -49,7 +49,7 @@ class m210113_114138_create_table_phone_number extends Migration
     public function up()
     {
 
-    }
+    
 
     public function down()
     {

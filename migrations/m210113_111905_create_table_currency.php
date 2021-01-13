@@ -56,7 +56,7 @@ class m210113_111905_create_table_currency extends Migration
     public function up()
     {
 
-    }
+    
 
     public function down()
     {

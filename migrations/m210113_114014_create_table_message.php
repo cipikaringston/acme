@@ -53,7 +53,7 @@ class m210113_114014_create_table_message extends Migration
     public function up()
     {
 
-    }
+    
 
     public function down()
     {

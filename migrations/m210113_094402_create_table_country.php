@@ -284,7 +284,7 @@ class m210113_094402_create_table_country extends Migration
     public function up()
     {
 
-    }
+    
 
     public function down()
     {

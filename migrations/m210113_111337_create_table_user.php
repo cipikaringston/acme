@@ -39,7 +39,7 @@ class m210113_111337_create_table_user extends Migration
     public function up()
     {
 
-    }
+    
 
     public function down()
     {

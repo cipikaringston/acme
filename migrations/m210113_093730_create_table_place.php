@@ -35,7 +35,7 @@ class m210113_093730_create_table_place extends Migration
     public function up()
     {
 
-    }
+    
 
     public function down()
     {
